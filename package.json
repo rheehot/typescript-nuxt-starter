@@ -1,0 +1,24 @@
+{
+  "name": "typescript-nuxt-starter",
+  "version": "0.0.1.1",
+  "description": "Quick and Easy TypeScript NuxtJs Starter",
+  "author": "AGUMON <ljlm0402@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "typescript",
+    "vue",
+    "nuxt"
+  ],
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljlm0402/typescript-nuxt-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ljlm0402/typescript-nuxt-starter/issues"
+  },
+  "homepage": "https://github.com/ljlm0402/typescript-nuxt-starter#readme"
+}
